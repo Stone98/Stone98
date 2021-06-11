@@ -2,7 +2,7 @@
 
 Hello, I'm Stone! Welcome to my profile page! I am an aspiring web developer currently attending Lambda School, an accelerated program focused on teaching the necessary skills for a career in web development.
 
-## About ME
+## About Me
 * I currently live in Phoenix, AZ
 * Before Lambda School I had little to no knowledge about web development or coding in general
 
