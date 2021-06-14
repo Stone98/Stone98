@@ -15,4 +15,4 @@ Hello, I'm Stone! Welcome to my profile page! I am an aspiring web developer cur
 * CSS
 
 ## Contact Me
-- I can be contact via my <a href="https://www.linkedin.com/in/stone-cogswell98/">LinkedIn</a>
+- I can be contacted via my <a href="https://www.linkedin.com/in/stone-cogswell98/">LinkedIn</a>
