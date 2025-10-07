@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 
 </div>
 
-## 🎯 Featured Projects
+## 🎯 Try some of my demos now!
 
 <table>
 <tr>
