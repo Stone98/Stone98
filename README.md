@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Stone! Welcome to my profile page! I am a developer. I specialize in full stack development.
+Hello, I'm Stone! Welcome to my profile page! I am a developer. I specialize in full-stack development.
 
 ## Skills
 * C#
