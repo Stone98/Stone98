@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 
 ### Backend Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -57,8 +58,10 @@ Classic snake game implementation showcasing web development skills and game log
 </td>
 <td width="50%">
 
-### 🚧 More Projects Coming Soon!
-Always working on something new. Check back for updates!
+### ⚡ Basic Residential Electricity
+Educational guide covering fundamental concepts of residential electrical systems and safety practices.
+
+**[🔗 Live Demo](https://stone98.github.io/BasicResidentialElectricity/)**
 
 </td>
 </tr>
